@@ -11,6 +11,8 @@ git reset --soft melhor opcao
 		  --hard
 git branch
 
+git diff - ver o q foi alterado nos arquivos
+
 
 
 refazer alterações
