@@ -13,6 +13,6 @@ git branch
 
 git diff - ver o q foi alterado nos arquivos
 
-
+alterado nova linha 
 
 refazer alterações
